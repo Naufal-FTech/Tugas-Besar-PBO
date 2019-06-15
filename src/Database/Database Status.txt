@@ -1,0 +1,6 @@
+KODE		,BAHAN ZAKAT		,BERAT		,PENGANTAR	,PENERIMA	,ALAMAT		,STATUS
+001		/BERAS          	/3 KG   	/SURYA A.	/KEL. SUTOYO	/TIRTO		/on road	
+002		/BERAS  		/3 KG   	/RAHMAT		/KEL. MISDARI	/DERMO		/diterima
+003		/BERAS MERAH		/2 KG   	/FADHIL		/KEL. TONI	/TEGALGONDO	/diterima	
+004		/GANDUM         	/4 KG   	/EKKY		/KEL. SUBAKTI	/KETANGI	/packing
+005		/BERAS          	/2 KG   	/ADI		/KEL. SUYITNO	/DIENG		/on road
