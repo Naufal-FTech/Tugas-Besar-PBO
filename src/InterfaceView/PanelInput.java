@@ -1,7 +1,7 @@
 
 package InterfaceView;
 
-import Controller1.Manage;
+import Driver.Manage;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
