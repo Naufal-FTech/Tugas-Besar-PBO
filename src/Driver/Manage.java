@@ -1,10 +1,10 @@
 
-package Controller1;
+package Driver;
 
 import InterfaceView.PanelInput;
 
 
-public class Manage implements Controller {
+public class Manage extends Controller {
 
     @Override
     public void saveBtn(PanelInput input) {
