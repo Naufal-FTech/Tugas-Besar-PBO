@@ -1,11 +1,11 @@
 
-package Controller1;
+package Driver;
 
 import InterfaceView.PanelInput;
 
 
-public interface Controller {
-    public void saveBtn (PanelInput input);
-    public void editBtn (PanelInput input);    
-    public void deleteBtn (PanelInput input);
+public abstract class Controller {
+    public abstract void saveBtn (PanelInput input);
+    public abstract void editBtn (PanelInput input);    
+    public abstract void deleteBtn (PanelInput input);
 }
